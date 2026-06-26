@@ -1,0 +1,14 @@
+/vendor/
+/.env
+/.env.*
+!/.env.example
+
+/logs/
+*.log
+
+/.phpunit.result.cache
+/.php-cs-fixer.cache
+
+/coverage/
+/tmp/
+/cache/
